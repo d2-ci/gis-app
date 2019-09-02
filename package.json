@@ -1,14 +1,6 @@
 {
   "name": "mapping-app",
-  "version": "30.0.0",
   "description": "GIS Web App for DHIS 2",
-  "main": "build/index.js",
-  "keywords": [
-    "DHIS2",
-    "HISP",
-    "GIS"
-  ],
-  "author": "Bjørn Sandvik",
   "license": "BSD-3-Clause",
-  "homepage": "https://github.com/dhis2/gis-app#readme"
+  "version": "30.0.0"
 }
